@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>20/10/2022 - 22:14:40</Generatedon>
+    <Parser>MultiReportParser (2x OpenCoverParser)</Parser>
+    <Assemblies>2</Assemblies>
+    <Classes>2</Classes>
+    <Files>2</Files>
+    <Coveredlines>2</Coveredlines>
+    <Uncoveredlines>4</Uncoveredlines>
+    <Coverablelines>6</Coverablelines>
+    <Totallines>32</Totallines>
+    <Linecoverage>33.3</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly-CSharp" classes="1" coverage="0" coveredlines="0" coverablelines="4" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="test" coverage="0" coveredlines="0" coverablelines="4" totallines="18" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="Tests" classes="1" coverage="100" coveredlines="2" coverablelines="2" totallines="14" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="TestTest" coverage="100" coveredlines="2" coverablelines="2" totallines="14" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

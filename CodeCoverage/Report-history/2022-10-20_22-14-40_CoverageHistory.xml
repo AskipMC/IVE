@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2022-10-20_22-14-40" tag="">
+  <assembly name="Assembly-CSharp">
+    <class name="test" coveredlines="0" coverablelines="4" totallines="18" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="Tests">
+    <class name="TestTest" coveredlines="2" coverablelines="2" totallines="14" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>
